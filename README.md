@@ -81,11 +81,9 @@ The application uses Google's Gemini AI to generate personalized learning plans.
 ### Haftalık Öğrenme Modülleri
 ![Haftalık Öğrenme Modülleri](assets/images/Screenshot%202025-05-06%20230009.png)
 
-### Öğrenme Stilinize Uygun Sertifika Seçenekleri
+### Öğrenme Stilinize Uygun Sertifika Seçenekleri ve Öğrenme Stilinize Uygun Önerilen Platformlar
 ![Öğrenme Stilinize Uygun Sertifika Seçenekleri](assets/images/Screenshot%202025-05-06%20230023.png)
 
-### Öğrenme Stilinize Uygun Önerilen Platformlar
-![Öğrenme Stilinize Uygun Önerilen Platformlar](assets/images/Screenshot%202025-05-06%20230042.png)
 
 ## ⚠️ IMPORTANT: API Key Requirement
 
