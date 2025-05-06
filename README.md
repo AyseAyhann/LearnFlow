@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LearnFlow: AI Destekli Kişiselleştirilmiş Mikro-Öğrenme Planlayıcı
 
 LearnFlow, bireyin öğrenme stilini ve hedeflediği konuyu temel alarak, kişiye özel mikro-öğrenme planları sunan bir yapay zeka destekli web uygulamasıdır.
@@ -74,4 +74,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 93130b9 (Initial commit: English version of LearnFlow with improved resource recommendations)
+
