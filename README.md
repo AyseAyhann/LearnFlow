@@ -69,7 +69,23 @@ The application uses Google's Gemini AI to generate personalized learning plans.
 
 ## Ekran Görüntüleri
 
-[Yakında eklenecek]
+### Öğrenme Hedefi Belirleme
+![Öğrenme Hedefi Belirleme](assets/images/learning-goal.png)
+
+### Öğrenme Planı Oluşturma
+![Öğrenme Planı Oluşturma](assets/images/plan-creation.png)
+
+### Kişiselleştirilmiş Öğrenme Planı
+![Kişiselleştirilmiş Öğrenme Planı](assets/images/personalized-plan.png)
+
+### Haftalık Öğrenme Modülleri
+![Haftalık Öğrenme Modülleri](assets/images/weekly-modules.png)
+
+### Öğrenme Stilinize Uygun Sertifika Seçenekleri
+![Öğrenme Stilinize Uygun Sertifika Seçenekleri](assets/images/certificates.png)
+
+### Öğrenme Stilinize Uygun Önerilen Platformlar
+![Öğrenme Stilinize Uygun Önerilen Platformlar](assets/images/platforms.png)
 
 ## ⚠️ IMPORTANT: API Key Requirement
 
