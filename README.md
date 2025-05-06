@@ -33,6 +33,40 @@ npm install
 # Geliştirme sunucusunu başlatın
 npm run dev
 ```
+### 2. Google Gemini API Anahtarı Alın
+
+Uygulama, kişiselleştirilmiş öğrenme planları oluşturmak için Google Gemini AI kullanmaktadır. Kendi API anahtarınızı almanız gerekiyor:
+
+1. [Google AI Studio](https://aistudio.google.com/app/apikey) adresini ziyaret edin
+2. Google hesabınızla giriş yapın
+3. "Create API Key" (API Anahtarı Oluştur) butonuna tıklayın (ücretsiz oluşturabilirsiniz)
+4. Oluşturulan API anahtarınızı kopyalayın
+
+### API Anahtarını Projeye Ekleyin (İki Seçenek)
+
+#### Seçenek 1: Çevresel Değişken Kullanma (Güvenlik için önerilir)
+
+1. Projenin kök dizininde `.env.local` adında bir dosya oluşturun
+2. Dosyaya şu satırı ekleyin (gerçek API anahtarınızla değiştirin):
+ NEXT_PUBLIC_GEMINI_API_KEY=API_ANAHTARINIZ_BURAYA
+
+### Get a Google Gemini API Key
+
+The application uses Google's Gemini AI to generate personalized learning plans. You need to get your own API key:
+
+1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey)
+2. Sign in with your Google account
+3. Click "Create API Key" (it's free to create)
+4. Copy your generated API key
+
+### 3. Add the API Key to the Project (Two Options)
+
+#### Option 1: Using Environment Variables (Recommended for security)
+
+1. Create a file named `.env.local` in the root directory of the project
+2. Add this line to the file, replacing with your actual API key:
+   NEXT_PUBLIC_GEMINI_API_KEY=YOUR_API_KEY_HERE
+
 
 ## Ekran Görüntüleri
 
