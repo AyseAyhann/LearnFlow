@@ -97,15 +97,9 @@ const learningStyleQuestions = [
 // Gemini API ile entegrasyon - güncel model kullanıyoruz
 const generateAILearningPlan = async (learningStyle: string, topic: string, hoursPerWeek: number, weeks: number): Promise<LearningPlan> => {
   try {
-    // API anahtarını çevresel değişkenden al
-    const API_KEY = process.env.NEXT_PUBLIC_GEMINI_API_KEY || "";
-    
-    if (!API_KEY) {
-      console.error("API key not found. Please add NEXT_PUBLIC_GEMINI_API_KEY to your .env.local file.");
-      throw new Error("API key is missing");
-    }
-    
-    console.log("API key is being used from environment variables");
+    // API anahtarını doğrudan tanımlıyoruz
+    const API_KEY = "AIzaSyClD068600s5WyC9g4V5a7-FXeVv77cBEM";
+    console.log("API key is being used directly");
 
     const genAI = new GoogleGenerativeAI(API_KEY);
     
